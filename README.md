@@ -1,4 +1,7 @@
-### Hi there 👋
+### Find me around the web 🌎:
+- [LinkedIn](https://www.linkedin.com/in/irfan-sampe-9b561347/)
+- [Medium](https://medium.com/@isampe)
+- [RPubs](https://rpubs.com/isampe)
 
 <!--
 **isampe/isampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
